@@ -18,11 +18,5 @@ public class PersonVO {
     private Date createTime;
 
 
-    public PersonVO(Long id, String name, Integer age, String address,Date createTime) {
-        this.id = id;
-        this.name = name;
-        this.age = age;
-        this.address = address;
-        this.createTime=createTime;
-    }
+
 }
