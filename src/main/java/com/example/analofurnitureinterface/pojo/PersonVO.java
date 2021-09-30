@@ -16,7 +16,4 @@ public class PersonVO {
     private String address;
 
     private Date createTime;
-
-
-
 }
